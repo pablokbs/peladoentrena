@@ -5,10 +5,10 @@ Este es el plan que voy a seguir para preparar mi Maratón. Mi objetivo de tiemp
 ## Contenido
 
 1. [Ritmos](#ritmos)
-2. [Plan](#elplan)
-3. [Entrenamiento de Pesas](#entrenamientodepesas)
+2. [Plan](#el.plan)
+3. [Entrenamiento de Pesas](#entrenamiento-de-pesas)
 4. [Nutrición](#nutrición)
-5. [Mi Kit](#mikit)
+5. [Mi Kit](#mi-kit)
 	1. Reloj
 	2. Zapatillas
 	3. Remera y Shorts
@@ -34,7 +34,7 @@ Cada ritmo tiene su objetivo:
 * **Ritmo de Maratón (RM)**: Este es el ritmo que necesitas mantener por 42,195km para lograr el objetivo de tiempo. Vas a practicar esto bastante para sentirte bien. Con pulsaciones rondando las 150.
 * **Tempo**: Este ritmo lo deberías poder mantener por una hora o un poco mas, mucha gente dice que es tu ritmo para 10k o 21k. Pulsaciones 160-165
 * **Intervalos**: Este es el ritmo que vas a usar en tus ejercicios de velocidad. Es un ritmo que deberías poder mantener por 5k o 10k. Pulsaciones 170+
-* **Pasadas**: Son pasadas de 20 segundos, es un esfuerzo casi al máximo pero mantenible por ese tiempo. Después tenes un descanso de 60 segundos entre cada una de ellas.
+* **Pasadas**: Son pasadas de 20 segundos, es un esfuerzo casi al máximo pero mantenible por ese tiempo. Después hay un descanso de 60 segundos entre cada una de ellas.
 
 # El Plan
 
@@ -91,3 +91,104 @@ Con respecto a mi entrenamiento de pesas, lo voy a dejar [más abajo](#entrenami
 * **Viernes**: Entrenamiento de pesas
 * **Sábado**: Descanso
 * **Domingo**: (Fondo 23k): 16k Fácil, 5k RM, 2k Fácil
+
+## Semana 6 [40k]: Carga
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil + Pasadas): 6k Fácil + 4 pasadas 20s 
+* **Miércoles**: Descanso
+* **Jueves**: (Velocidad): 10min Fácil, 6x 3min Intervalos + 2min caminando, 10min Fácil
+* **Viernes**: Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 26k): 6k Fácil, 4k RM, 4k Fácil, 3k RM, 3k Fácil, 3k RM, 3k Fácil
+
+## Semana 7 [45k]: Carga
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil + Pasadas): 5k Fácil + 4 pasadas 20s
+* **Miércoles**: Descanso
+* **Jueves**: (Tempo 6k): 2k Fácil, 3k Tempo, 1k Fácil
+* **Viernes**: (Fácil + Pesas) 5k Fácil + Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 29k): 7k Fácil, 5k RM, 6k Fácil, 5k RM, 6k Fácil
+
+## Semana 8 [35k]: Recuperación
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil + Pasadas): 8k Fácil + 4 pasadas 20s 
+* **Miércoles**: Descanso
+* **Jueves**: (Velocidad): 10min Fácil, 5x 800m Intervalos + 2min caminando, 10min Fácil
+* **Viernes**: Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 19k): 19k Fácil
+
+## Semana 9 [51k]: Pico
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil): 6k Fácil
+* **Miércoles**: Descanso
+* **Jueves**: (Progresión 10k): 3k Fácil, 3k RM, 2k Tempo, 2k Fácil
+* **Viernes**: (Fácil + Pesas) 5k Fácil + Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 29k): 16k Fácil, 10k RM, 3k Fácil
+
+## Semana 10 [55k]: Pico
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil + Pasadas): 8k Fácil + 5 pasadas 20s
+* **Miércoles**: Descanso
+* **Jueves**: (Velocidad): 10min Fácil, 10x 2min Intervalos + 2min caminando, 10min Fácil
+* **Viernes**: (Fácil + Pesas) 6k Fácil + Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 32k): 32k Fácil
+
+## Semana 11 [62k]: Pico
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil): 10k Fácil
+* **Miércoles**: Descanso
+* **Jueves**: (Tempo 10k): 4k Fácil, 3k Tempo, 3k Fácil
+* **Viernes**: (Fácil + Pesas) 10k Fácil + Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 32k): 7k Fácil, 7k RM, 6k Fácil, 6k RM, 6k Fácil
+
+## Semana 12 [64k]: Pico
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil + Pasadas): 10k Fácil + 6 pasadas 20s
+* **Miércoles**: Descanso
+* **Jueves**: (Velocidad): 15min Fácil, 3x 8min Tempo + 2min caminando, 15min Fácil
+* **Viernes**: (Fácil + Pesas) 10k Fácil + Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 35k): 35k Fácil
+
+## Semana 13 [55k]: Descarga
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil): 10k Fácil
+* **Miércoles**: Descanso
+* **Jueves**: (Progresión 10k): 3k Fácil, 3k RM, 2k Tempo, 2k Fácil
+* **Viernes**: (Fácil + Pesas) 8k Fácil + Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 27k): 8k Fácil, 11k RM, 8k Fácil
+
+## Semana 14 [45k]: Descarga
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil + Pasadas): 8k Fácil + 5 pasadas 20s
+* **Miércoles**: Descanso
+* **Jueves**: (Velocidad): 15min Fácil, 5x 800m Intervalo + 2min caminando, 15min Fácil
+* **Viernes**: (Fácil + Pesas) 10k Fácil + Entrenamiento de pesas
+* **Sábado**: Descanso
+* **Domingo**: (Fondo 18k): 18k Fácil
+
+## Semana 15 [60k]: Carrera
+
+* **Lunes**: Entrenamiento de pesas
+* **Martes**: (Fácil): 5k Fácil
+* **Miércoles**: Descanso
+* **Jueves**: (Velocidad): 10min Fácil, 4x 5min RM + 2min caminando, 10min Fácil
+* **Viernes**: (Fácil) 5k Fácil 
+* **Sábado**: Descanso
+* **Domingo**: Carrera! 42,2k RM :) -- Buena suerte!
+
