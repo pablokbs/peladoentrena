@@ -192,3 +192,23 @@ Con respecto a mi entrenamiento de pesas, lo voy a dejar [más abajo](#entrenami
 * **Sábado**: Descanso
 * **Domingo**: Carrera! 42,2k RM :) -- Buena suerte!
 
+# Entrenamiento de Pesas
+
+Mi entrenamiento de pesas es bastante simple y está enfocado en piernas y core. Les dejo 2 videos de entrenamientos muy parecidos a los que hago en el día de fuerza.
+
+[![Entrenamiento de pesas 1](https://img.youtube.com/vi/OhA1xZa_QXM/0.jpg)](https://www.youtube.com/watch?v=OhA1xZa_QXM)
+[![Entrenamiento de pesas 2](https://img.youtube.com/vi/Cct_UYt2DHI/0.jpg)](https://www.youtube.com/watch?v=Cct_UYt2DHI)
+
+# Nutrición
+
+En cualquier carrera de mas de 2 horas, es importante comer durante la carrera. Esto es porque el cuerpo solamente puede guardar una cantidad finita de energía en forma de Glucogeno. Este Glucogeno se guarda cuando uno consume carbohidratos. Es normal hacer "carga de carbohidratos" durante los dias anteriores a una carrera, para llenar la reserva lo máximo posible.
+
+Una vez que pasaron esas 2 horas, el cuerpo se queda sin energía y empieza a sacar energía de las grasas, que puede ser muy bueno si alguien quiere bajar de peso, pero no es muy bueno a la hora de mantener un ritmo de carrera, por lo que necesitamos consumir carbohidratos mientras corremos.
+
+La forma más fácil de hacer esto es consumiendo geles deportivos, estos geles generalmente tienen unos 30g de carbohidratos. Se calcula que una persona debe consumir 60g de carbohidratos durante una carrera, (esto no incluye el glucogeno ya guardado) por lo que es inevitable tener que consumir al menos 2 geles por hora. 
+
+Esto puede ser un problema para algunos, ya que estos geles obviamente contienen mucha azúcar y esto puede ser bastante pesado para el estómago. Entonces es muy importante entrenar al estómago a consumir grandes cantidades de azucar durante el entrenamiento. Durante nuestras corridas largas (por más que vamos a correr más lento que el día de la carrera) vamos a tratar de consumir 60g de carbohidratos igualmente, tal vez no necesitemos tanta energía, pero sí necesitamos entrenar a nuestro estómago y cuerpo a lidiar con estos geles.
+
+Estos son los geles que consumo yo, pueden probar los que quieran, lean bien la etiqueta para ver cuantos gramos de carbohidratos contienen. Algunos geles también tienen cafeína y algunas sales para hidratación. Es importante practicar con una marca de geles y mantener esa misma marca durante entrenamientos y carrera, ya que no sabemos como nos puede caer una marca nueva el dia de la carrera.
+
+[![Geles](https://www.enasport.com/cdn/shop/files/EnargyGel_12C.jpg?v=1731094785&width=800)](https://www.enasport.com/products/enargy-gel-cafeina-6-u?srsltid=AfmBOopUPEb18TKJICZL4wee9_QA8LHmPnolXRv1NYP4BLZM74oLbq5V)
